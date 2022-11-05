@@ -6,7 +6,10 @@
 ## Maze
 
 Find a route from 0 -> I:  <br>
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/93315926/183321709-ac7c1325-16ac-4776-ad68-5bb99213153e.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/93315926/183321709-ac7c1325-16ac-4776-ad68-5bb99213153e.png"><br>
+The search sequence is<br>
+
+Right ==> Left ==> Top ==> Bottom<br>
 
 * Solution: BFS in Matrix
 
