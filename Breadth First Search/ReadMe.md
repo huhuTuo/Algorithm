@@ -1,9 +1,7 @@
 
 
 ## Introduction
-
-
-
+![bfs](https://user-images.githubusercontent.com/117481140/200092483-2caaa761-c5ab-43c9-b7b0-d2952d700c54.png)
 
 ## Maze
 
